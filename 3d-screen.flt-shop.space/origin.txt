@@ -1,0 +1,284 @@
+Uri: https://3d-screen.flt-shop.space/index.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\index.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/favicon.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\favicon.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/css/reset.css
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\css\reset.css
+Content Type: text/css
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSans.css
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSans.css
+Content Type: text/css
+
+Uri: https://3d-screen.flt-shop.space/css/owl.carousel.min.css
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://3d-screen.flt-shop.space/css/style.css
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\css\style.css
+Content Type: text/css
+
+Uri: https://3d-screen.flt-shop.space/politics.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\politics.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/contacts.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\contacts.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/images/header_product.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\header_product.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/s2_img.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\s2_img.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/s3_list1.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\s3_list1.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/s3_list2.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\s3_list2.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/s3_list3.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\s3_list3.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/s3_list4.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\s3_list4.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/s3_img.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\s3_img.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/gallery_1.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\gallery_1.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/gallery_2.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\gallery_2.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/gallery_3.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\gallery_3.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/gallery_4.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\gallery_4.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/rev1.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\rev1.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/rev2.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\rev2.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/rev3.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\rev3.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/order_1.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\order_1.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/order_2.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\order_2.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/images/order_3.jpg
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\order_3.jpg
+Content Type: image/jpeg
+
+Uri: https://3d-screen.flt-shop.space/js/previewYouTube.js
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://3d-screen.flt-shop.space/js/owl.carousel.min.js
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://3d-screen.flt-shop.space/js/main.js
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\js\main.js
+Content Type: application/javascript
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansLight.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansLight.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansLight.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansLight.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansRegular.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansRegular.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansRegular.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansRegular.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansItalic.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansItalic.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansItalic.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansItalic.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansSemiBold.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansSemiBold.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansSemiBold.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansSemiBold.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansSemiBoldItalic.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansSemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansSemiBoldItalic.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansSemiBoldItalic.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansBold.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansBold.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/OpenSans/OpenSansBold.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\OpenSans\OpenSansBold.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/images/novinka.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\novinka.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/price_shadow.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\price_shadow.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/offer_bull1.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\offer_bull1.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/offer_bull2.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\offer_bull2.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/offer_bull3.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\offer_bull3.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/info1.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\info1.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/gallery_arrow.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\gallery_arrow.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/char_list.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\char_list.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/stars_four.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\stars_four.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/stars_all.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\stars_all.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/like-icon.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\like-icon.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/order_icon.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\order_icon.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/images/garant.png
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\images\garant.png
+Content Type: image/png
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/GothamPro.css
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\GothamPro.css
+Content Type: text/css
+
+Uri: https://3d-screen.flt-shop.space/css/styles.css
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\css\styles.css
+Content Type: text/css
+
+Uri: https://3d-screen.flt-shop.space/delivery.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\delivery.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/garantee.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\garantee.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/about.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\about.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/how_buy.html
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\how_buy.html
+Content Type: text/html
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Light.woff2
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Light.woff2
+Content Type: font/woff2
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Light.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Light.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Light.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Light.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro.woff2
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro.woff2
+Content Type: font/woff2
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Medium.woff2
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Medium.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Medium.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Medium.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Medium.bin
+Content Type: application/octet-stream
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Bold.woff2
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Bold.woff
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Bold.woff
+Content Type: font/woff
+
+Uri: https://3d-screen.flt-shop.space/fonts/GothamPro/subset-GothamPro-Bold.ttf
+File Name: D:\Програмне забезпечення\Копії сайтів\3dmagnifierscreen\3d-screen.flt-shop.space\fonts\GothamPro\subset-GothamPro-Bold.bin
+Content Type: application/octet-stream
+
